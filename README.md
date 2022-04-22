@@ -43,8 +43,8 @@
  <a href="https://github.com/vitorborqge"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://twitter.com/Vitorborqge"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
      
-        
-        
+      
+        ![Snake animation](https://github.com/vitorborqge/vitorborqge/blob/output/github-contribution-grid-snake.svg)
  
 
  
