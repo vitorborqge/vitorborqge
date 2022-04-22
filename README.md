@@ -1,10 +1,11 @@
 <DIV>
-Olá eu sou Vitor Borges Vieira 👋
 
-- 🔭 Hoje trabalho como suporte
-- 🌱 Estudando JavaScript
-- 📫 Contate-me no email: vitor.vieira@uscsonline.com.br
-- 😄 Pronome: ele/dele
+## - Olá eu sou Vitor Borges Vieira 👋
+## - 🔭 Hoje trabalho como suporte
+## - 🌱 Estudando JavaScript
+## - 📫 Contate-me no email: vitor.vieira@uscsonline.com.br
+## - 😄 Pronome: ele/dele!
+
 </DIV>
 
  ##
