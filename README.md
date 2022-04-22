@@ -1,4 +1,4 @@
-<DIV>
+<DIV align="center">
 
 ## - Olá eu sou Vitor Borges Vieira 👋
 ## - 🔭 Hoje trabalho como suporte
