@@ -5,7 +5,6 @@ Olá eu sou Vitor Borges Vieira 👋
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no email: vitor.vieira@uscsonline.com.br
 - 😄 Pronome: ele/dele
- <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FdPTC99hWMYgAAAAM%2Fdog-sleepy.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fstudying-gifs&tbnid=goZibKY6do4xXM&vet=12ahUKEwip4KbHg6j3AhU0BbkGHUz_AB4QMygmegUIARDdAg..i&docid=Zoj2tA6kNNqrQM&w=220&h=220&q=GIF%20STUDY&ved=2ahUKEwip4KbHg6j3AhU0BbkGHUz_AB4QMygmegUIARDdAg">
 </DIV>
 
  ##
@@ -45,6 +44,7 @@ Olá eu sou Vitor Borges Vieira 👋
      
         
         
-  ![Snake animation](https://github.com/vitorborqge/vitoborqge/blob/output/github-contribution-grid-snake.svg)
+ 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
