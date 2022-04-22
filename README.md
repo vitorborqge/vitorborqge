@@ -1,4 +1,4 @@
-<DIV align="center">
+<div align="center">
 
 ## - Olá eu sou Vitor Borges Vieira 👋
 ## - 🔭 Hoje trabalho como suporte
@@ -6,7 +6,7 @@
 ## - 📫 Contate-me no email: vitor.vieira@uscsonline.com.br
 ## - 😄 Pronome: ele/dele!
 
-</DIV>
+</div>
 
  ##
  
