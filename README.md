@@ -1,7 +1,7 @@
 <div align="center">
 
 ## - Olá eu sou Vitor Borges Vieira 👋
-## - 🔭 Hoje trabalho como suporte
+## - 🔭 Hoje trabalho como Analista de sistemas
 ## - 🌱 Estudando JavaScript
 ## - 📫 Contate-me no email: vitor.vieira@uscsonline.com.br
 ## - 😄 Pronome: ele/dele!
@@ -30,7 +30,7 @@
  
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCc-niaVo7BvZzKlw-a9VpNg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vitorborqgegamer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_vitorborqge/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/vitorborqge" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Pc24cCgqq7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "vitor.vieira@uscsonline.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
