@@ -2,7 +2,7 @@
 
 ## - Olá eu sou Vitor Borges Vieira 👋
 ## - 🔭 Hoje trabalho como Analista de sistemas
-## - 🌱 Estudando JavaScript
+## - 🌱 Estudando PLSQL
 ## - 📫 Contate-me no email: vitor.vieira@uscsonline.com.br
 ## - 😄 Pronome: ele/dele!
 
